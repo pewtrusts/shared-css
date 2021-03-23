@@ -1,5 +1,9 @@
 .ai2html-griffin-figure {
     margin-bottom: 2rem;
+    line-height: 1.2;
+}
+.ai2html-griffin-figure p {
+    line-height: 1.2;
 }
 
 .ai2html-griffin-figure header span {
