@@ -40,6 +40,9 @@
     line-height: 1.2;
     margin: 0 0 1.125rem;
 }
+.ai2html-griffin-figure figcaption {
+    padding-top: 1rem;
+}
 .ai2html-griffin-figure .figure-note,
 .rich-text .ai2html-griffin-figure .figure-note {
     font-size: 0.8rem;
