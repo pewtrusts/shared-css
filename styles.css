@@ -65,7 +65,8 @@
 }
 
 .ai2html-griffin-figure .figure-note--source {
-    color: #767676;
+    /* color: #767676; */
+    color: #000;
 }
 
 @media screen and (max-width: 416px) {
