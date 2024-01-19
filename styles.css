@@ -12,22 +12,25 @@
 }
 
 .ai2html-griffin-figure header h1 {
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.32rem;
     font-size: clamp(1.1rem, 3.106vw, 1.32rem);
     margin: 0 0 0.25em;
+    letter-spacing: -.1;
     line-height: 1.1;
 }
 
 .ai2html-griffin-figure header h1 strong, .ai2html-griffin-figure header h1 b {
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .ai2html-griffin-figure .figure-label {
     display: block;
-    font-size: 1rem;
-    font-weight: 600;
+    font-size: .95rem;
+    letter-spacing: -.1;
+    margin: 0 0 .25em;
     font-size: clamp(13px, 3.2vw, 1rem);
+    font-size: clamp(.8rem, 2.2353vw, .95rem)
 }
 
 .ai2html-griffin-figure .subhead {
@@ -40,12 +43,12 @@
 
 .ai2html-griffin-figure .figure-dek {
     opacity: .9;
-    font-weight: 600;
     font-size: 1.13rem;
     font-size: clamp(1rem, 2.659vw, 1.13rem);
     white-space: normal !important;
     line-height: 1.2;
     margin: 0 0 1.125rem;
+    letter-spacing: -.1;
 }
 
 .ai2html-griffin-figure figcaption {
@@ -86,10 +89,10 @@
         font-size: 0.85rem;
         font-size: clamp(1rem, 2.636vw, 1.13rem);
     }
-    .ai2html-griffin-figure .figure-label, .ai2html-griffin-figure .subhead {
+    /* .ai2html-griffin-figure .figure-label, .ai2html-griffin-figure .subhead {
         font-size: 13px;
         font-size: clamp(13px, 3.2vw, 1rem);
-    }
+    } */
     .ai2html-griffin-figure header h1 {
         font-size: 1rem;
         font-size: clamp(1.1rem, 3.06vw, 1.32rem);
