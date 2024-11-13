@@ -14,7 +14,7 @@
 .ai2html-griffin-figure header h1 {
     font-weight: 700;
     font-size: 1.32rem;
-    font-size: clamp(1.1rem, 3.106vw, 1.32rem);
+    font-size: clamp(1.1em, 3.106vw, 1.32em);
     margin: 0 0 0.25em;
     letter-spacing: -.2px;
     line-height: 1.1;
@@ -26,7 +26,7 @@
 
 .ai2html-griffin-figure .figure-label {
     display: block;
-    font-size: .95rem;
+    font-size: .95em;
     letter-spacing: -.2px;
     margin: 0 0 .25em;
     /* font-size: clamp(13px, 3.2vw, 1rem);*/
@@ -35,7 +35,7 @@
 
 .ai2html-griffin-figure .subhead {
     font-size: 1rem;
-    font-size: clamp(13px, 3.2vw, 1rem);
+    font-size: clamp(13px, 3.2vw, 1em);
     font-weight: bold;
     margin-top: 9px;
     margin-bottom: 9px;
@@ -43,8 +43,7 @@
 
 .ai2html-griffin-figure .figure-dek {
     opacity: .9;
-    font-size: 1.13rem;
-    font-size: clamp(1rem, 2.659vw, 1.13rem);
+    font-size: clamp(1em, 2.659vw, 1.13em);
     white-space: normal !important;
     line-height: 1.2;
     margin: 0 0 1.125rem;
@@ -60,7 +59,7 @@
 
 .ai2html-griffin-figure .figure-note, .rich-text .ai2html-griffin-figure .figure-note {
     font-size: 0.8rem;
-    font-size: clamp(10px, 3.17vw, 0.8rem);
+    font-size: clamp(10px, 3.17vw, 0.8em);
     line-height: 1.3;
     margin-top: 9px;
     margin-bottom: 9px;
@@ -68,7 +67,7 @@
 
 .ai2html-griffin-figure .figure-caption, .rich-text .ai2html-griffin-figure .figure-caption {
     font-size: 1rem;
-    font-size: clamp(0.9rem, 3.07vw, 1rem);
+    font-size: clamp(0.9rem, 3.07vw, 1em);
 }
 
 .ai2html-griffin-figure .figure-note--source {
